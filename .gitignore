@@ -1,0 +1,6 @@
+*.iml
+.idea
+/hello-cookiecutter*
+vendor/*/
+.project
+.vscode
